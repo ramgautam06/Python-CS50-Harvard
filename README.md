@@ -21,4 +21,8 @@ Harvard Python
     - String Slicing 
     - Tuples 
     - While Loops 
-    
+
+- 3 Exceptions 
+    - Debugging 
+    - Handling Exceptions 
+    - Raising Exceptions 
