@@ -26,3 +26,9 @@ Harvard Python
     - Debugging 
     - Handling Exceptions 
     - Raising Exceptions 
+
+- 4 Libraries 
+    - API Calls 
+    - Creating Modules and Packages 
+    - Random 
+    - Style 
