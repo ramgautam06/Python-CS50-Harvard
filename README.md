@@ -32,3 +32,6 @@ Harvard Python
     - Creating Modules and Packages 
     - Random 
     - Style 
+
+- 5 Unit Tests
+    - pytest
