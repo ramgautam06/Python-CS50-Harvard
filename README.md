@@ -35,3 +35,8 @@ Harvard Python
 
 - 5 Unit Tests
     - pytest
+
+- 6 File I/O
+    - Reading and Writing CSVs 
+    - Reading and Writing Files 
+    - Reading anf Writing binary/image files using Pillow [pip3 install Pillow]
